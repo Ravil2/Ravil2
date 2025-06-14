@@ -21,8 +21,11 @@
 ### 🧰 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,linux" /><br>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="50" alt="ShadCN UI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/ant-design.svg" width="50" alt="Ant Design"/>
 </p>
+
 
 ---
 
