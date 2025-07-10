@@ -11,10 +11,10 @@
 
 ### 🧬 About me:
 
-- 💻 Frontend Developer из Казахстана
+- 💻 Frontend Developer
 - ⚡ React, Next.js, TypeScript, Tailwind, ShadCN
-- 🧠 Clean architecture & performance matter
-- 🔥 Уже более **76 коммитов** на GitHub (и это только начало)
+- 🛠 Clean architecture & performance matters
+
 
 ---
 
@@ -24,13 +24,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,linux" /><br>
 </p>
 
----
-
-### 🚧 Projects in Progress:
-
-- 📝 **Task Manager App** — React + TypeScript + Tailwind
-- 📁 Страницы: Home / Progress / Completed / Archived / Projects / Team / Settings / Reports
-- 🧩 В планах: drag & drop, фильтрация, api-интеграция
 
 ---
 
@@ -49,4 +42,4 @@
 ### 🌐 Contacts:
 
 - Telegram: [@Zyko2442](https://t.me/Zyko2442)
-- Email: rafffa14111@gmail.com
+- Email: rafffa14111@gmail.com 
