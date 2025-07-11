@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ravil2&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="[https://streak-stats.demolab.com?user=Ravil2&theme=tokyonight&hide_border=true&border_radius=10](https://streak-stats.demolab.com?user=Ravil2&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&fire=FF7A59&ring=FF7A59&currStreakLabel=FF7A59)" />
 </p>
 
 ---
