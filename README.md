@@ -15,19 +15,17 @@
 - ⚡ React, Next.js, TypeScript, Tailwind, ShadCN
 - 🛠 Clean architecture & performance matters
 
-
 ---
 
 ### 🧰 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,linux" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,linux,vite,redux,figma" />
 </p>
-
 
 ---
 
-### 📊 Stats:
+### 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ravil2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" />
@@ -41,5 +39,5 @@
 
 ### 🌐 Contacts:
 
-- Telegram: [@Zyko2442](https://t.me/Zyko2442)
-- Email: rafffa14111@gmail.com 
+- 🐱 Telegram: [@Zyko2442](https://t.me/Zyko2442)
+- 📧 Email: rafffa14111@gmail.com
