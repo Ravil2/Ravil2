@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello, I'm Ravil 👾
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <img src="https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif" width="50px">
 </h1>
 
 <p align="center">
@@ -11,16 +11,16 @@
 
 ### 🧬 About me:
 
-- 💻 Frontend Developer
-- ⚡ React, Next.js, TypeScript, Tailwind, ShadCN
-- 🛠 Clean architecture & performance matters
+- 💻 Frontend Developer  
+- ⚡ React, Next.js, TypeScript, Tailwind, ShadCN  
+- 🛠 Clean architecture & performance matters  
 
 ---
 
 ### 🧰 Tech Stack:
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,linux" /><br>
 </p>
 
 ---
@@ -36,5 +36,5 @@
 
 ### 🌐 Contacts:
 
-- Telegram: [@Zyko2442](https://t.me/yoo003)
+- Telegram: [@Zyko2442](https://t.me/yoo003)  
 - Email: rafffa14111@gmail.com
