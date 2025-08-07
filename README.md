@@ -36,5 +36,5 @@
 
 ### 🌐 Contacts:
 
-- Telegram: [@Zyko2442](https://t.me/Zyko2442)
+- Telegram: [@Zyko2442](https://t.me/yoo003)
 - Email: rafffa14111@gmail.com
