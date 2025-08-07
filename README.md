@@ -28,7 +28,7 @@
 ### 🌌 Vibes:
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmQ2cW45Nmo0cnA4NWtkeDJzOHV3dnk1b3pscWtkZHRnN3BweGRxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HJTzwvNjJtG8dOiTft/giphy.gif" width="300px" /><br><br>
+  <img src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" width="300px" /><br><br>
   <em>"Writing code like a synthwave track — smooth, fast, evolving. Every day, a better version uploads."</em>
 </p>
 
