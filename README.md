@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300px" /><br><br>
-  <em>“Writing code that feels like synthwave — sleek, fast, and just a little rebellious.”</em>
+  <em>"Writing code like a synthwave track — smooth, fast, evolving. Every day, a better version uploads."</em>
 </p>
 
 ---
