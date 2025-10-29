@@ -1,21 +1,20 @@
 <!-- Profile Header -->
 <h1 align="center">
-  ⚡ Ravil — Fullstack Developer 👾  
-  <img src="https://i.pinimg.com/originals/f5/f2/74/f5f27448c036af645c27467c789ad759.gif" width="60">
+  ⚙️ Ravil — Fullstack Developer  
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Fullstack+Engineer;React+%7C+Next.js+%7C+TypeScript;PHP+%7C+OOP+%7C+MVC;Building+fast+%26+elegant+apps;Code+in+style+%7C+Cyberpunk+Energy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=22&pause=1000&color=4A6FA5&center=true&vCenter=true&width=600&lines=Fullstack+Engineer;React+%7C+Next.js+%7C+TypeScript;PHP+%7C+OOP+%7C+MVC;Building+stable+and+elegant+solutions;Simplicity+is+strength." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧬 About Me
+### 🧭 About Me
 
-💻 **Fullstack Developer** — bridging frontend elegance with backend logic.  
-🚀 Focused on **high performance**, **clean architecture**, and **scalable codebases**.  
-🎯 Passionate about **React**, **Next.js**, and **modern PHP (OOP / MVC)**.  
-🧠 Continuously learning, optimizing, and upgrading — like firmware.
+🧠 **Fullstack Developer** — merging logic and clarity on both sides of the stack.  
+💡 Focused on **clean code**, **architecture**, and **scalable solutions**.  
+⚙️ Experienced with **React**, **Next.js**, **TypeScript**, and **PHP (OOP / MVC)**.  
+📖 Guided by a stoic mindset: *“Discipline equals freedom.”*
 
 ---
 
@@ -26,29 +25,32 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyko2442&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=zyko2442&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyko2442&layout=compact&theme=graywhite&hide_border=true&langs_count=8" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=zyko2442&show_icons=true&theme=graywhite&hide_border=true" height="165">
 </p>
+
+> 💡 Если видишь “Something went wrong” — сервис GitHub Stats временно перегружен.  
+> Просто обнови страницу через несколько минут.
 
 ---
 
-### 🧠 What I Build
+### 🧱 What I Build
 
-- **Frontend:** Pixel-perfect UIs with React / Next.js / Tailwind  
-- **Backend:** Scalable APIs using PHP (OOP, MVC, REST)  
-- **Architecture:** Clean, modular, and production-focused  
+- **Frontend:** Reliable, clean, responsive interfaces (React / Next.js / Tailwind)  
+- **Backend:** Structured PHP (OOP, MVC, REST APIs)  
+- **Architecture:** Modular, maintainable, and testable codebases  
+- **Mindset:** Precision over flash, consistency over chaos  
 
 ---
 
-### 🌌 Vibe Zone
+### 🕊 Philosophy
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXd2ZjE2aW5wNjc1YWRvNjJvYjh5c3phbzZ5ZGFqZTZsbXl6Y3kzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif" width="400px" />
+  <em>“The calmer you are, the clearer your code.”</em><br>
+  <em>“Simplicity is the highest sophistication.” — Leonardo da Vinci</em>
 </p>
 
-<p align="center">
-  <em>“I write code the way synths play melodies — clean, rhythmic, and unforgettable.”</em>
-</p>
+---
 
 ### 🌐 Contacts
 
@@ -59,12 +61,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zyko2442&label=Profile%20Views&color=00FFF7&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=zyko2442&label=Profile%20Views&color=4A6FA5&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/zyko2442.png" width="100" style="border-radius: 50%;"><br>
-  <strong>“Future is coded in light.”</strong>
+  <img src="https://github.com/zyko2442.png" width="100" style="border-radius: 50%;"><br><br>
+  <strong>“Code calmly. Build wisely.”</strong>
 </p>
